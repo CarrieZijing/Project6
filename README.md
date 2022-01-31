@@ -14,7 +14,7 @@ Our defined supervised machine learning methods:
 
 ## Deliverables
 
-- '1. Netflix.csv with clean and encoded data
-- '2. Netflix.ipynb' with all code concerning data cleaning and modelling
-- '3. Slides 
-- '4. Trello board with logged time. https://trello.com/b/xG05YZzX/project-7-group-3
+- 1. Netflix.csv with clean and encoded data
+- 2. Netflix.ipynb' with all code concerning data cleaning and modelling
+- 3. Slides 
+- 4. Trello board with logged time. https://trello.com/b/xG05YZzX/project-7-group-3
